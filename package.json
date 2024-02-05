@@ -1,0 +1,24 @@
+{
+  "name": "satellite-express",
+  "version": "0.1.0",
+  "description": "my js express server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/papercrane55123/satellite-express.git"
+  },
+  "keywords": [
+    "js",
+    "satellite",
+    "express"
+  ],
+  "author": "papercrane55123",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/papercrane55123/satellite-express/issues"
+  },
+  "homepage": "https://github.com/papercrane55123/satellite-express#readme"
+}
